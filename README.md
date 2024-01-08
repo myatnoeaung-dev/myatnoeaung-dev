@@ -23,7 +23,7 @@
 
 ## 💻 My Tech Stack:
 
-[![My Tech Stack](https://skillicons.dev/icons?i=flutter,java,kotlin,unity,js,firebase,git,css,aws,html,)]
+[![My Tech Stack](https://skillicons.dev/icons?i=flutter,java,kotlin,unity,js,firebase,git,css,aws,html,)]()
 
 ## 📖 Read My Blogs:
 
