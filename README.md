@@ -35,6 +35,6 @@
 ## 📖 Read My Blogs:
 
 <p>
-    <a target="_blank"href="https://medium.com/@myatnoeaung.dev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://myatnoeaung-cosmas.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 </div>
