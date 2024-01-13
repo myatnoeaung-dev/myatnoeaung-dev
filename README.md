@@ -28,8 +28,8 @@
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 src="https://github-readme-stats.vercel.app/api?username=myatnoeaung-dev&show_icons=true&count_private=true" />&nbsp;&nbsp;
-    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=myatnoeaung-dev&layout=donut" />&nbsp;&nbsp;
+    <img height=175 src="https://github-readme-stats.vercel.app/api?username=myatnoeaung-dev&show_icons=true&count_private=true&theme=transparent" />&nbsp;&nbsp;
+    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=myatnoeaung-dev&layout=donut&theme=transparent" />&nbsp;&nbsp;
 </p>
 
 ## 📖 Read My Blogs:
