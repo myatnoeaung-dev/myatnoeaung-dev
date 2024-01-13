@@ -12,11 +12,9 @@
 </div>
 
 
-
 - 🔭 I’m currently working at C3 <c3.com.mm>
 - 🌱 I’m passionate about augmented reality and cross-platform mobile app
 - 📫 How to reach me: DM to myatnoeaung.dev@gmail.com
-- ⚡ Fun fact: ...
 
 
 <div align="center">
