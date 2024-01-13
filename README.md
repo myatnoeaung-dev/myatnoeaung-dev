@@ -7,7 +7,7 @@
     
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/CoYumYum) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/myat-noe-aung-8008a11b2) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:myatnoeaung.dev@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:myatnoeaung.dev@gmail.com?subject=Hello%20Myat,%20From%20Github)
 
 </div>
 
