@@ -23,7 +23,7 @@
 
 ## 💻 My Tech Stack:
 
-[![My Tech Stack](https://skillicons.dev/icons?i=flutter,java,kotlin,dart,unity,cs,js,firebase,git,css,aws,html,)]()
+[![My Tech Stack](https://skillicons.dev/icons?i=flutter,java,kotlin,dart,unity,cs,js,php,gradle,firebase,mongodb,mysql,sqlite,git,aws,nginx,figma,html,css&theme=light)]()
 
 ## 🏆 My Stats:
 
